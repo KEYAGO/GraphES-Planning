@@ -1,7 +1,7 @@
 # GraphES-Planning
 ### Graph Excel Studies for Transportation-Planning
 
-![GraphES Logo-ChatGPT](https://github.com/user-attachments/assets/34887a71-cbe2-42dc-a9fa-5ba6c5dbb7d9)
+<img src="![GraphES Logo-ChatGPT](https://github.com/user-attachments/assets/34887a71-cbe2-42dc-a9fa-5ba6c5dbb7d9)" alt="Sample Image" width="400" height="300">
 
 
 This program has been developed in **Microsoft Excel & VBA to solve transportation planning and graph problems** with visual inputs and outputs. **All codes are open source.** Any user can utilize this program in various ways:
