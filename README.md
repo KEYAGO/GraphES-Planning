@@ -2,7 +2,7 @@
 ### Graph Excel Studies for Transportation-Planning
 
 
-<img align="center" src="https://github.com/user-attachments/assets/34887a71-cbe2-42dc-a9fa-5ba6c5dbb7d9" alt="Sample Image" width="100" height="100">
+<img align="center" src="https://github.com/user-attachments/assets/34887a71-cbe2-42dc-a9fa-5ba6c5dbb7d9" alt="GraphES Logo" width="100" height="100">
 
 
 
