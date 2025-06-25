@@ -18,11 +18,11 @@ By default, the program includes a network of the city of Ankara, Türkiye, whic
 
 The models used in the program (as well as the introductory models for transport planning) are given in the **"GraphES Formulation Cheat Sheet".**
 
-<img src="https://github.com/user-attachments/assets/98bdb367-5dc0-4202-a5bf-69842586092d" alt="AnkaraTestNetworkDevelopment" width="1000" height="300">
+<img src="https://github.com/user-attachments/assets/98bdb367-5dc0-4202-a5bf-69842586092d" alt="AnkaraTestNetworkDevelopment" width="1000" height="300"> <br />
 
 
 
-https://github.com/user-attachments/assets/1ada98fd-4f4f-4410-a61d-37e08143d41f
+<img src="https://github.com/user-attachments/assets/1ada98fd-4f4f-4410-a61d-37e08143d41f" alt="AnkaraTestNetworkDevelopment" width="1000" height="300">
 
 
 
