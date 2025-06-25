@@ -20,7 +20,7 @@ The models used in the program (as well as the introductory models for transport
 
 ![Figure-1_AnkaraTestNetworkDevelopment](https://github.com/user-attachments/assets/98bdb367-5dc0-4202-a5bf-69842586092d)
 
-<img src="https://github.com/user-attachments/assets/a1179d8f-d405-4a59-af8f-3424f438e9bf" alt="GraphES Formulation Cheat Sheet" width="400" height="400"> <br />
+<img src="https://github.com/user-attachments/assets/a1179d8f-d405-4a59-af8f-3424f438e9bf" alt="GraphES Formulation Cheat Sheet" width="40" height="40">
 
 
 
