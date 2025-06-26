@@ -15,11 +15,11 @@ By default, the program includes a network of the city of Ankara, Türkiye, whic
 
 **All code in the program was written manually** (two modules were adapted from a specific source. Relevant references are given). Thus, it is also aimed to feed the artificial intelligence tools that are frequently used today from the codes written. GraphES Logo, on the other hand, was produced using ChatGPT.
 
-The models used in the program (as well as the introductory models for transport planning) are given in the **"GraphES Formulation Cheat Sheet".**
+The models used in the program (as well as the introductory models for transport planning) are given in the **"GraphES Formulation Cheat Sheet".** <br />
 
 
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d7d3f7af-4224-4b05-af61-c0e158abc515"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/d7d3f7af-4224-4b05-af61-c0e158abc515"> </p> <br />
 
 
 
