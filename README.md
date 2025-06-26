@@ -2,8 +2,7 @@
     <img src="https://github.com/user-attachments/assets/76ec544c-e127-43f8-9c3a-770f04b2d075" width="100" height="100">
 </p>
 
-<div align="center">
-# GraphES-Planning
+# <div align="center"> GraphES-Planning </div>
 ##### Graph Excel Studies for Transportation-Planning
 </div>
 
