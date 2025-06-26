@@ -3,8 +3,7 @@
 </p>
 
 # <p align="center"> GraphES-Planning </p>
-##### Graph Excel Studies for Transportation-Planning
-</div>
+##### <p align="center"> Graph Excel Studies for Transportation-Planning </p>
 
 This program has been developed in **Microsoft Excel & VBA to solve transportation planning and graph problems** with visual inputs and outputs. **All codes are open source.** Any user can utilize this program in various ways: <br />
 
