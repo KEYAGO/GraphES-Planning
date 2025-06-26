@@ -53,7 +53,6 @@ https://github.com/user-attachments/assets/d2d93a72-3c8c-4c2f-a275-c934da28a012
 <br />
 <p align="center"> RESULTS - Comparison with PTV VISUM   :white_check_mark: </p>
 <br />
-<br />
 <p align="center"> <img src="https://github.com/user-attachments/assets/a26ce253-53cb-4a8f-bbb4-a4ecd1349065"> </p>
 <br />
 <br />
