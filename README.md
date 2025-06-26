@@ -1,8 +1,9 @@
+
+<img src="https://github.com/user-attachments/assets/76ec544c-e127-43f8-9c3a-770f04b2d075" align="center" width="100" height="100"> <br />
+
+
 # GraphES-Planning
 ### Graph Excel Studies for Transportation-Planning
-<img src="https://github.com/user-attachments/assets/34887a71-cbe2-42dc-a9fa-5ba6c5dbb7d9" alt="GraphES Logo" width="100" height="100"> <br />
-
-
 
 This program has been developed in **Microsoft Excel & VBA to solve transportation planning and graph problems** with visual inputs and outputs. **All codes are open source.** Any user can utilize this program in various ways: <br />
 
