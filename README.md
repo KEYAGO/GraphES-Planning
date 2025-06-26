@@ -9,7 +9,7 @@ This program has been developed in **Microsoft Excel & VBA to solve transportati
 :scroll: Educational purposes for Transportation & Traffic Engineering, <br />
 :globe_with_meridians: Graph Theory applications, <br />
 :car: Modeling exercises: Trip Distribution, Shortest Path, Traffic Assignment etc.  <br />
-:computer: :+1: Mathematical Optimisation & Artificial Intelligence practices...** <br />
+:computer: Mathematical Optimisation & Artificial Intelligence practices...** <br />
 <br />
 By default, the program includes a network of the city of Ankara, Türkiye, which has been simplified and adapted specifically for this program. "Ankara Test Network" consists of 12 Zones, 44 Nodes and 132 Links. If desired, different networks such as Nguyen-Dupuis, Sioux-Falls can be integrated into the program. The number of network components can be increased or decreased...
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/d2d93a72-3c8c-4c2f-a275-c934da28a012
 <br />
 <br />
 <br />
-<p align="center"> **RESULTS** :white_check_mark: </p> 
+<p align="center"> RESULTS :white_check_mark: :+1: </p> 
 <br />
 <p align="center"> <img src="https://github.com/user-attachments/assets/8b8a1aaa-e069-44a9-b700-3f380c5d1dd5"> </p>
 <br />
