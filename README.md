@@ -4,13 +4,13 @@
 ##### <p align="center"> Graph Excel Studies for Transportation-Planning </p> <br />
 
 This program has been developed in **Microsoft Excel & VBA to solve transportation planning and graph problems** with visual inputs and outputs. **All codes are open source.** Any user can utilize this program in various ways: <br />
-
-**:+1: Design of Intelligent Transportation Algorithms, <br />
-:+1: Educational purposes for Transportation & Traffic Engineering, <br />
-:+1: Graph Theory applications, <br />
-:+1: Modeling exercises: Trip Distribution, Shortest Path, Traffic Assignment etc.  <br />
-:+1: Mathematical Optimisation & Artificial Intelligence practices...** <br />
-
+<br />
+**:satellite: Design of Intelligent Transportation Algorithms, <br />
+:scroll: Educational purposes for Transportation & Traffic Engineering, <br />
+:globe_with_meridians: Graph Theory applications, <br />
+:car: Modeling exercises: Trip Distribution, Shortest Path, Traffic Assignment etc.  <br />
+:computer: :+1: Mathematical Optimisation & Artificial Intelligence practices...** <br />
+<br />
 By default, the program includes a network of the city of Ankara, Türkiye, which has been simplified and adapted specifically for this program. "Ankara Test Network" consists of 12 Zones, 44 Nodes and 132 Links. If desired, different networks such as Nguyen-Dupuis, Sioux-Falls can be integrated into the program. The number of network components can be increased or decreased...
 
 **All code in the program was written manually** (two modules were adapted from a specific source. Relevant references are given). Thus, it is also aimed to feed the artificial intelligence tools that are frequently used today from the codes written. GraphES Logo, on the other hand, was produced using ChatGPT.
