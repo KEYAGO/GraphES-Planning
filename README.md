@@ -19,7 +19,7 @@ The models used in the program (as well as the introductory models for transport
 
 
 
-![Figure-1_AnkaraNetworkDevelopment](https://github.com/user-attachments/assets/d7d3f7af-4224-4b05-af61-c0e158abc515)
+<p align="center"> <img src="https://github.com/user-attachments/assets/d7d3f7af-4224-4b05-af61-c0e158abc515)"> </p>
 
 
 
